@@ -1,0 +1,14 @@
+IMPORT
+	1.clone
+		select one folder > cmd > git clone https://github.com/Rijojin/gitmaster2.git
+	2.Pull
+		pull new updated data in github
+
+EXPORT
+	1.NewUpdatePush
+		
+	2.NewBranch
+
+	3.merge
+
+	4.Conflict
